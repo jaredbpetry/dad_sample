@@ -1,0 +1,18 @@
+---
+title: "dad sample"
+format: html
+editor: visual
+---
+
+### Gonna do some cool stuff 
+
+```{r}
+library(palmerpenguins)
+library(tidyverse)
+library(here)
+
+```
+
+```{r}
+head(penguins)
+```
